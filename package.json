@@ -4,9 +4,9 @@
   "author": "Oliver Schneider <oliverschneider89+sweetpi@gmail.com> (http://sweetpi.de)",
   "contributors": [
     {
-      "name": "Marek Kail",
-      "email": "reg@kail.cz",
-      "url": "https://github.com/wutu"
+      "name": "Takanobu Fuse",
+      "email": "capitalfuse@gmail.com",
+      "url": "https://github.com/capitalfuse"
     }
   ],
   "main": "dht-sensors",
@@ -17,10 +17,10 @@
     "device-config-schema.coffee"
   ],
   "version": "0.8.5",
-  "homepage": "http://github.com/pimatic/pimatic-dht-sesnors",
+  "homepage": "http://github.com/capitalfuse/pimatic-dht-sesnors",
   "repository": {
     "type": "git",
-    "url": "git://github.com/pimatic/pimatic-dht-sesnors.git"
+    "url": "git://github.com/capitalfuse/pimatic-dht-sesnors.git"
   },
   "configSchema": "dht-sensors-config-schema.coffee",
   "dependencies": {
@@ -30,11 +30,11 @@
     "pimatic": "0.8.*"
   },
   "engines": {
-    "node": ">0.8.x",
-    "npm": ">1.1.x"
+    "node": "4.4.x",
+    "npm": "2.14.x"
   },
   "bugs": {
-    "url": "https://github.com/pimatic/pimatic/issues"
+    "url": "https://github.com/capitalfuse/pimatic/issues"
   },
   "devDependencies": {},
   "scripts": {
